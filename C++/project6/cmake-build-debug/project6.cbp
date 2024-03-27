@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="project6"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="G:/project6/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="G:/project6/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project6">
+				<Option output="G:/project6/project6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/project6"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/include/c++/11.2.0"/>
+					<Add directory="C:/msys64/mingw64/include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/include/c++/11.2.0/backward"/>
+					<Add directory="C:/msys64/mingw64/lib/clang/13.0.0/include"/>
+					<Add directory="C:/msys64/mingw64/x86_64-w64-mingw32/include"/>
+					<Add directory="C:/msys64/mingw64/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 project6"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project6/fast">
+				<Option output="G:/project6/project6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/project6"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/include/c++/11.2.0"/>
+					<Add directory="C:/msys64/mingw64/include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/include/c++/11.2.0/backward"/>
+					<Add directory="C:/msys64/mingw64/lib/clang/13.0.0/include"/>
+					<Add directory="C:/msys64/mingw64/x86_64-w64-mingw32/include"/>
+					<Add directory="C:/msys64/mingw64/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 project6/fast"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="G:/project6/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="String_test">
+				<Option output="G:/project6/String_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/project6"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/include/c++/11.2.0"/>
+					<Add directory="C:/msys64/mingw64/include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/include/c++/11.2.0/backward"/>
+					<Add directory="C:/msys64/mingw64/lib/clang/13.0.0/include"/>
+					<Add directory="C:/msys64/mingw64/x86_64-w64-mingw32/include"/>
+					<Add directory="C:/msys64/mingw64/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 String_test"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="String_test/fast">
+				<Option output="G:/project6/String_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/project6"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/include/c++/11.2.0"/>
+					<Add directory="C:/msys64/mingw64/include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/include/c++/11.2.0/backward"/>
+					<Add directory="C:/msys64/mingw64/lib/clang/13.0.0/include"/>
+					<Add directory="C:/msys64/mingw64/x86_64-w64-mingw32/include"/>
+					<Add directory="C:/msys64/mingw64/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 String_test/fast"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DblQueue_test">
+				<Option output="G:/project6/DblQueue_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/project6"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/include/c++/11.2.0"/>
+					<Add directory="C:/msys64/mingw64/include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/include/c++/11.2.0/backward"/>
+					<Add directory="C:/msys64/mingw64/lib/clang/13.0.0/include"/>
+					<Add directory="C:/msys64/mingw64/x86_64-w64-mingw32/include"/>
+					<Add directory="C:/msys64/mingw64/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 DblQueue_test"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DblQueue_test/fast">
+				<Option output="G:/project6/DblQueue_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/project6"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/include/c++/11.2.0"/>
+					<Add directory="C:/msys64/mingw64/include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/include/c++/11.2.0/backward"/>
+					<Add directory="C:/msys64/mingw64/lib/clang/13.0.0/include"/>
+					<Add directory="C:/msys64/mingw64/x86_64-w64-mingw32/include"/>
+					<Add directory="C:/msys64/mingw64/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 DblQueue_test/fast"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;G:/project6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="G:/project6/DblQueue.cpp">
+			<Option target="project6"/>
+			<Option target="String_test"/>
+			<Option target="DblQueue_test"/>
+		</Unit>
+		<Unit filename="G:/project6/DblQueue.h">
+			<Option target="project6"/>
+			<Option target="String_test"/>
+			<Option target="DblQueue_test"/>
+		</Unit>
+		<Unit filename="G:/project6/DblQueueTest.cpp">
+			<Option target="DblQueue_test"/>
+		</Unit>
+		<Unit filename="G:/project6/GuitarHero.cpp">
+			<Option target="project6"/>
+		</Unit>
+		<Unit filename="G:/project6/GuitarString.cpp">
+			<Option target="project6"/>
+			<Option target="String_test"/>
+		</Unit>
+		<Unit filename="G:/project6/GuitarString.h">
+			<Option target="project6"/>
+			<Option target="String_test"/>
+		</Unit>
+		<Unit filename="G:/project6/GuitarStringTest.cpp">
+			<Option target="String_test"/>
+		</Unit>
+		<Unit filename="G:/project6/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

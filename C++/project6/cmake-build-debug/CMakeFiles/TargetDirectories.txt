@@ -1,0 +1,5 @@
+G:/project6/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/project6/cmake-build-debug/CMakeFiles/project6.dir
+G:/project6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+G:/project6/cmake-build-debug/CMakeFiles/String_test.dir
+G:/project6/cmake-build-debug/CMakeFiles/DblQueue_test.dir
