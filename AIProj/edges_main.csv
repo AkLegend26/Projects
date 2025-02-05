@@ -1,0 +1,10 @@
+edgeLabel,locationA,locationB,actualDistance
+Edge1,LocationA,LocationB,300
+Edge2,LocationB,LocationC,450
+Edge3,LocationC,LocationA,500
+Edge4,LocationA,LocationD,400
+Edge5,LocationD,LocationE,350
+Edge6,LocationE,LocationF,400
+Edge7,LocationF,LocationA,450
+Edge8,LocationB,LocationD,370
+Edge9,LocationC,LocationE,420
